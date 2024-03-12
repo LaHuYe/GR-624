@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "adc.h": "c",
+        "application.h": "c",
+        "main.h": "c"
+    }
+}
