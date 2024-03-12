@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "adc.h": "c",
+        "application.h": "c",
+        "main.h": "c",
+        "tim.h": "c",
+        "i2c.h": "c",
+        "gzp6859d.h": "c",
+        "pwr_stop.h": "c",
+        "bat.h": "c",
+        "py32c643xx_ll_start_kit.h": "c",
+        "py32c643_ll_iwdg.h": "c",
+        "py32c643_ll_i2c.h": "c",
+        "py32c643_ll_utils.h": "c",
+        "seg.h": "c"
+    }
+}
